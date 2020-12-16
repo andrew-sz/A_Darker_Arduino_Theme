@@ -18,7 +18,7 @@
    <marginLine fg="394448"/>
    <markAllHighlight color="6b8189"/> <!-- TODO: Fix me -->
    <markOccurrencesHighlight color="5b7179" border="false"/>
-   <matchedBracket fg="ffffff" bg="404859" highlightBoth="true" animate="true"/>
+   <matchedBracket fg="ffffff" bg="aaaaaa" highlightBoth="true" animate="true"/>
    <hyperlinks fg="a082bd"/>
    <secondaryLanguages>
       <language index="1" bg="333344"/>
@@ -46,12 +46,12 @@
       <style token="FUNCTION" fg="E0E2E4"/>
       <style token="DATA_TYPE" fg="678CB1" bold="true"/>
       <style token="LITERAL_BOOLEAN" fg="93C763" bold="true"/>
-      <style token="LITERAL_NUMBER_DECIMAL_INT" fg="E5C07B"/>
-      <style token="LITERAL_NUMBER_FLOAT" fg="E5C07B"/>
-      <style token="LITERAL_NUMBER_HEXADECIMAL" fg="E5C07B"/>
-      <style token="LITERAL_STRING_DOUBLE_QUOTE" fg="E5C07B"/>
-      <style token="LITERAL_CHAR" fg="E5C07B"/>
-      <style token="LITERAL_BACKQUOTE" fg="E5C07B"/>
+      <style token="LITERAL_NUMBER_DECIMAL_INT" fg="FFCD22"/>
+      <style token="LITERAL_NUMBER_FLOAT" fg="FFCD22"/>
+      <style token="LITERAL_NUMBER_HEXADECIMAL" fg="FFCD22"/>
+      <style token="LITERAL_STRING_DOUBLE_QUOTE" fg="EC7600"/>
+      <style token="LITERAL_CHAR" fg="EC7600"/>
+      <style token="LITERAL_BACKQUOTE" fg="EC7600"/>
       <style token="MARKUP_TAG_DELIMITER" fg="678CB1"/>
       <style token="MARKUP_TAG_NAME" fg="ABBFD3" bold="true"/>
       <style token="MARKUP_TAG_ATTRIBUTE" fg="B3B689"/>
@@ -68,11 +68,11 @@
       <style token="SEPARATOR" fg="aaaaaa"/>
       <style token="VARIABLE" fg="ae9fbf" bold="true"/>
       <style token="WHITESPACE" fg="E0E2E4"/>
-		
-      <style token="ERROR_IDENTIFIER" fg="E5C07B" />
-      <style token="ERROR_NUMBER_FORMAT" fg="E5C07B" />
-      <style token="ERROR_STRING_DOUBLE" fg="E5C07B" />
-      <style token="ERROR_CHAR" fg="E5C07B" />
+
+      <style token="ERROR_IDENTIFIER" fg="E0E2E4" bg="04790e"/>
+      <style token="ERROR_NUMBER_FORMAT" fg="E0E2E4" bg="04790e"/>
+      <style token="ERROR_STRING_DOUBLE" fg="E0E2E4" bg="04790e"/>
+      <style token="ERROR_CHAR" fg="E0E2E4" bg="04790e"/>
    </tokenStyles>
 
 </RSyntaxTheme>
