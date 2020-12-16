@@ -1,6 +1,5 @@
 # A Darker Arduino
 
-The below is from the OneDarkArduino repo and still applies to this one including the license. 
 This is a darker theme with pure black background for both the console output and the editor.  
 There seems to be a bug with binary number formatting like 0b00011010 where the number and background
 change color but I haven't figured out how to fix it.   
@@ -15,7 +14,7 @@ There is also now an [Arduino plugin for Visual Studio Code](https://marketplace
 
 For the moment, this theme is what works for me when I need to code with the Arduino IDE.  
 
-From OneDarkArduino repo: 
+The below is from the OneDarkArduino repo and still applies to this one including the license. 
 
 Modern dark theme for the Arduino IDE, inspired by One Dark Pro for VSCode by binaryify: https://binaryify.github.io/OneDark-Pro/#/. Based on work done by Jeff Thompson: https://create.arduino.cc/projecthub/rahulkhanna/dark-theme-for-arduino-ide-17c001?ref=search&ref_id=theme&offset=0 
 
