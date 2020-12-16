@@ -4,7 +4,7 @@ This is a darker theme than OneDarkArduino with a pure black background for both
 There seems to be a bug with binary number formatting,  e.g. 0b00011010 where the number and background
 change color but I haven't figured out how to fix it.   
 
-I like darker themes for my coding work.  And figure there may be someone else in the Void who likes darker themes
+I like darker themes for my coding work and figure there may be someone else in the Void who likes darker themes
 and doesn't want to go through the effort to play with all the RGB values so I decided to make my changes public.
 
 For this theme, all I did was play with the colors (in theme.txt) so that they met my personal preferences.
