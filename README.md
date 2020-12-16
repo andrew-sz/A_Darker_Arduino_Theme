@@ -16,7 +16,7 @@ There is also now an [Arduino plugin for Visual Studio Code](https://marketplace
 
 For the moment, this theme is what works for me when I need to code with the Arduino IDE.  
 
-*** One more thought/note! *** Another reason I made this repo public is that when the Arduino application is
+**One more thought/note!** Another reason I made this repo public is that when the Arduino application is
 updated on Mac OS X the theme will be replaced since the theme folder is part of the application contents.  
 So it makes it easy to find and replace the theme after Arduino application updates.
 
