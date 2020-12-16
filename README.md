@@ -1,11 +1,11 @@
 # A Darker Arduino
 
-This is a darker theme with pure black background for both the console output and the editor.  
-There seems to be a bug with binary number formatting like 0b00011010 where the number and background
+This is a darker theme than OneDarkArduino with a pure black background for both the console output and the editor.  
+There seems to be a bug with binary number formatting,  e.g. 0b00011010 where the number and background
 change color but I haven't figured out how to fix it.   
 
-I decided to modify the original OneDarkArduino because I like darker themes for my coding work.  And
-figuring there may be someone else in the Void who likes darker themes decided to make my changes public.
+I like darker themes for my coding work.  And figure there may be someone else in the Void who likes darker themes
+and doesn't want to go through the effort to play with all the RGB values so I decided to make my changes public.
 
 For this theme, all I did was play with the colors (in theme.txt) so that they met my personal preferences.
 All credit for figuring this stuff out goes to [Jeff Thompson](https://github.com/jeffThompson/DarkArduinoTheme) and [Konrad91](https://github.com/konrad91/OneDarkArduino).
@@ -16,7 +16,7 @@ There is also now an [Arduino plugin for Visual Studio Code](https://marketplace
 
 For the moment, this theme is what works for me when I need to code with the Arduino IDE.  
 
-**One more thought/note!** Another reason I made this repo public is that when the Arduino application is
+**One more note!** Another reason I made this repo public is that when the Arduino application is
 updated on Mac OS X the theme will be replaced since the theme folder is part of the application contents.  
 So it makes it easy to find and replace the theme after Arduino application updates.
 
