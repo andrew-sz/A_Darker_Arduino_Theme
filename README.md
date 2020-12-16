@@ -10,6 +10,8 @@ figuring there may be someone else in the Void who likes darker themes decided t
 For this theme, all I did was play with the colors (in theme.txt) so that they met my personal preferences.
 All credit for figuring this stuff out goes to [Jeff Thompson](https://github.com/jeffThompson/DarkArduinoTheme) and [Konrad91](https://github.com/konrad91/OneDarkArduino).
 
+![screenshot](https://github.com/andrew-sz/A_Darker_Arduino_Theme/blob/main/screen_shot_super_dark.jpeg)
+
 There is also now an [Arduino plugin for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino) that seems interesting to me but I have not yet tried to use it for any projects.  
 
 For the moment, this theme is what works for me when I need to code with the Arduino IDE.  
@@ -18,7 +20,7 @@ The below is from the OneDarkArduino repo and still applies to this one includin
 
 Modern dark theme for the Arduino IDE, inspired by One Dark Pro for VSCode by binaryify: https://binaryify.github.io/OneDark-Pro/#/. Based on work done by Jeff Thompson: https://create.arduino.cc/projecthub/rahulkhanna/dark-theme-for-arduino-ide-17c001?ref=search&ref_id=theme&offset=0 
 
-![screenshot](https://github.com/andrew-sz/A_Darker_Arduino_Theme/blob/main/screen_shot_super_dark.jpeg)
+
 
 The following is credited to https://github.com/jeffThompson/DarkArduinoTheme 
 
