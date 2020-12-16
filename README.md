@@ -5,11 +5,15 @@ This is a darker theme with pure black background for both the console output an
 There seems to be a bug with binary number formatting like 0b00011010 where the number and background
 change color but I haven't figured out how to fix it.   
 
-I decided to modify the original OneDarkArduino because I'm used to IDE's where I can make change all 
-of the colors.   For this theme all I did was play with the colors so that they met my preferences but
-all credit for figuring this stuff out goes to [Jeff Thompson](https://github.com/jeffThompson/DarkArduinoTheme) and [Konrad91](https://github.com/konrad91/OneDarkArduino).
+I decided to modify the original OneDarkArduino because I like darker themes for my coding work.  And
+figuring there may be someone else in the Void who likes darker themes decided to make my changes public.
 
-There is also now an (Arduino plugin for Visual Studio Code)[https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino] that seems interesting but I have not yet started to use it.  For the moment, this theme is what works for me.
+For this theme, all I did was play with the colors (in theme.txt) so that they met my personal preferences.
+All credit for figuring this stuff out goes to [Jeff Thompson](https://github.com/jeffThompson/DarkArduinoTheme) and [Konrad91](https://github.com/konrad91/OneDarkArduino).
+
+There is also now an [Arduino plugin for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino) that seems interesting to me but I have not yet tried to use it for any projects.  
+
+For the moment, this theme is what works for me when I need to code with the Arduino IDE.  
 
 From OneDarkArduino repo: 
 
