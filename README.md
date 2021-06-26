@@ -2,7 +2,7 @@
 
 #### Updated!!!!   Discovered how to make the Serial Plotter dark!  Please see theme.txt to change any colors or background.   And remember to restart Arduino after making any changes!
 
-[Dark Plotter Screenshot](https://github.com/andrew-sz/A_Darker_Arduino_Theme/blob/main/dark_plotter_screenshot.jpeg)
+![Dark Plotter Screenshot](https://github.com/andrew-sz/A_Darker_Arduino_Theme/blob/main/dark_plotter_screenshot.jpeg)
 
 This is a darker theme than OneDarkArduino with a pure black background for both the console output and the editor.  
 There seems to be a bug with binary number formatting,  e.g. 0b00011010 where the number and background
